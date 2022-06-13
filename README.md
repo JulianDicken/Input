@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/input/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
+<p align="center"><img src="https://github.com/JulianDicken/Input/raw/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
 <h1 align="center">Input 5.0.3</h1>
 
 <p align="center">A comprehensive lack of additional input functionality for GameMaker Studio 2022.5 by
