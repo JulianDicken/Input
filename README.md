@@ -3,7 +3,7 @@
 
 <p align="center">A comprehensive lack of additional input functionality for GameMaker Studio 2022.5 by
 <a href="http://www.jujuadams.com/"><b>@jujuadams</b></a> and
-<a href="https://offalynne.neocities.org/"><b>@offalynne</b></a></p>  and
+<a href="https://offalynne.neocities.org/"><b>@offalynne</b></a></p>
 Regular thanks to
 Julien#2376 and
 Andre_404#4685 and
